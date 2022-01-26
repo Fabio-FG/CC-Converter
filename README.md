@@ -27,3 +27,10 @@ CCC stands for Currency Context Converter
     <li> Euro - Angolan Kwanza </li>
     <li> Euro - Japanese Yen </li>
   </ul>
+
+
+<h2>Backlog</h2>
+<ul>
+  <li>Contextualization and localization</li>
+  <li>Colour map with respective currency on display</li>
+  </ul>
