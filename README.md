@@ -10,3 +10,20 @@ CCC stands for Currency Context Converter
   
   <br></br>
   <b>Example 1:</b> USD to EUR - Converts USD to EUR and gives the following context: With The value of X Eur you can buy Y item (flunctuation value according to countries and their economies if the coin is shared). 
+  
+  
+  <h2>Main Features</h2>
+  <ul>
+  <li> Currency Conversion</li>
+  <li> Cryptocurrency to RegularCurrency (vice-versa)</li>
+  </ul>
+  
+  
+  <h2>Available Conversion Currencies </h2>
+  <p>Available conversions - two way conversion
+  <ul>
+  <li> Euro - US Dollar</li>
+    <li> Euro - Brazilian Real</li>
+    <li> Euro - Angolan Kwanza </li>
+    <li> Euro - Japanese Yen </li>
+  </ul>
